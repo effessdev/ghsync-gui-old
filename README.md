@@ -1,3 +1,8 @@
+> [!WARNING]
+> This project was deprecated and was replaced with [ghsync-gui](https://github.com/effessdev/ghsync-gui).
+
+---
+
 <h1 align="center">ghsync-gui</h1>
 
 <p align="center">Back up GitHub repositories with a single click. Supports both light and dark modes.<p>
